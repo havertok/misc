@@ -23,3 +23,5 @@ class Solution:
         return temp
         
         
+## Can return median candidates (small lists of either 1 or 2 nums)
+## sort these and then return the median of that
